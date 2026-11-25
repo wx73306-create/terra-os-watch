@@ -1,0 +1,15 @@
+{
+  "title": "TERRA OS · 户外运动手表",
+  "description": "TERRA OS 户外运动手表交互演示：表盘、运动记录、导航、心率与天气，全部可点击体验。",
+  "language": "zh-CN",
+  "robots": {
+    "index": true
+  },
+  "icons": {
+    "icon": "favicon.svg"
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
